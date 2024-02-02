@@ -1,0 +1,3 @@
+"name","id","identifier","instanceType","label","uuid:ID","identifierScheme"
+"Eli Lilly","Organization_1","00-642-1325","Organization","","977baae3-1a3f-483e-ad1f-b81ff067669b","DUNS"
+"ClinicalTrials.gov","Organization_2","CT-GOV","Organization","","d64e71dc-c2d3-448f-b771-f2b1e2af9efc","USGOV"
