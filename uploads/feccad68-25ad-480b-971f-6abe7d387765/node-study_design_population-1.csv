@@ -1,0 +1,2 @@
+"name","label","id","uuid:ID","description","includesHealthySubjects","instanceType"
+"POP1","","StudyDesignPopulation_1","a9eb2d1d-6959-410f-9e24-5a2572b5500e","Patients with Probable Mild to Moderate Alzheimer's Disease","False","StudyDesignPopulation"
