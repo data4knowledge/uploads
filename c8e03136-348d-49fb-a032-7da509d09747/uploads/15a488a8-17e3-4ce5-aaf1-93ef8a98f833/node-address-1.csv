@@ -1,3 +1,0 @@
-"city","id","state","uuid:ID","line","postalCode","instanceType","text","district"
-" Indianapolis ","Address_1"," IN ","c86397a2-85ee-441c-8e39-c93e29344844","Lilly Corporate Ctr"," 4628 ","Address","Lilly Corporate Ctr,  Indianapolis  IN  4628 Denmark",""
-"city","Address_2","state","d5844375-71f4-450c-a2d4-778673ee6f05","line","postal_code","Address","line, city, district, state, postal_code, United Kingdom of Great Britain and Northern Ireland","district"

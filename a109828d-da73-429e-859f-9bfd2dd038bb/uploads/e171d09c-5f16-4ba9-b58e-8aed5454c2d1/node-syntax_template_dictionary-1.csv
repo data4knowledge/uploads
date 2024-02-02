@@ -1,3 +1,0 @@
-"name","uuid:ID","description","label","id","parameterMap","instanceType"
-"IE_Dict","b757f3af-a578-4c96-bdb2-8d5e6eaff58d","Dictionary for IE","IE Dictionary","SyntaxTemplateDictionary_1","{'min_age': {'klass': 'Range', 'id': 'Range_3', 'attribute': 'maxValue'}, 'max_age': {'klass': 'Range', 'id': 'Range_3', 'attribute': 'minValue'}, 'StudyPopulation': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'description'}}","SyntaxTemplateDictionary"
-"AS_Dict","e1900cae-fefb-43f6-837b-a6994c4bfd54","Dictionary for Study Assessments","Assessment Dictionary","SyntaxTemplateDictionary_2","{'Activity1': {'klass': 'Activity', 'id': 'Activity_6', 'attribute': 'label'}}","SyntaxTemplateDictionary"
