@@ -1,0 +1,5 @@
+"name","uuid:ID","description","label","id","text","instanceType","identifier"
+"Age Criteria","27d1bee2-1fef-4b5c-9b88-6a88a26e6a37","The study age criterion","","EligibilityCriterion_1","Subjects shall be between [min_age] and [max_age]","EligibilityCriterion","1"
+"Pop Criteria","3d168c4b-e301-463d-913d-9f03f42b3f2c","The study population criterion","","EligibilityCriterion_2","[StudyPopulation] as defined by the NINCDS and the ADRDA guidelines (Attachment LZZT.7)","EligibilityCriterion","2"
+"Diag Criteria","ab509411-907c-4add-a8e9-e350fb402872","The study diagnosis criterion","","EligibilityCriterion_3","[Activity1] score of 10 to 23","EligibilityCriterion","3"
+"Previous Criteria","9e2707df-0197-4875-b9eb-51c46a6bbff5","The previous xanomeline TTS criterion","","EligibilityCriterion_4","Persons who have previously completed or withdrawn from this study or any other study investigating xanomeline TTS or the oral formulation of xanomeline.","EligibilityCriterion","9"
