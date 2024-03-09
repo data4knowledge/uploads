@@ -1,0 +1,181 @@
+"instanceType","id","text","sectionNumber","uuid:ID","sectionTitle","name"
+"NarrativeContent","NarrativeContent_1","","0","13d5e302-493b-4e26-93cd-12e5abc5843d","Root","ROOT"
+"NarrativeContent","NarrativeContent_2","<div><div class=""container"">
+  <div class=""row"">
+    <div class=""col-md-8 offset-md-2 text-center"">
+      <p><strong><usdm:macro id=""element"" name=""study_identifier""/></strong></p>
+    </div>
+  </div>
+  <div class=""row mt-3"">
+    <div class=""col-md-8 offset-md-2 text-center"">
+      <p><strong><usdm:macro id=""element"" name=""study_full_title""/></strong></p>
+    </div>
+  </div>
+  <div class=""row mt-3"">
+    <div class=""col-md-10 offset-md-1 text-center border"">
+      <p><strong>Confidential Information</strong></p>
+      <p>
+        <small>
+          The information contained in this protocol is confidential and is intended for the use of clinical
+          investigators. It is the property of Eli Lilly and Company or its subsidiaries and should not be copied by
+          or distributed to persons not involved in the clinical investigation of glucagon (LY900018), unless such
+          persons are bound by a confidentiality agreement with Eli Lilly and Company or its subsidiaries.
+        </small>
+      </p>
+      <p>
+        <small>
+          <b>Note to Regulatory Authorities:</b> This document may contain protected personal data and/or commercially
+          confidential information exempt from public disclosure. Eli Lilly and Company requests consultation
+          regarding release/redaction prior to any public release. In the United States, this document is subject to Freedom of
+          Information Act (FOIA) Exemption 4 and may not be reproduced or otherwise disseminated without the written
+          approval of Eli Lilly and Company or its subsidiaries.
+        </small>
+      </p>
+    </div>
+  </div>
+  <div class=""row mt-5"">
+    <div class=""col-md-8 offset-md-2 text-center"">
+      <p>Glucagon (LY900018)</p>
+      <p>Eli Lilly Japan K.K Japan</p>
+      <p>Clinical Pharmacology Protocol Electronically Signed and Approved by Lilly:</p>
+      <p>26 October 2017</p>
+      <p>Amendment (<usdm:macro id=""element"" name=""amendment""/>) Electronically Signed and Approved by Lilly on date provided below.</p>
+      </p>
+    </div>
+  </div>
+  <div class=""row"">
+    <div class=""col-md-3 offset-md-9 text-right"">
+      <p>Approval Date: <usdm:macro id=""element"" name=""approval_date""/></p>
+    </div>
+  </div>
+</div></div>","0","8db3abb5-7786-4d79-b75f-b0afb53f0f00","Title Page","SECTION 0"
+"NarrativeContent","NarrativeContent_3","<div>
+  <p><b>Title of Study:</b></p>
+  <p>A Phase 3 Study of Nasal Glucagon (LY900018) Compared to Intramuscular Glucagon for Treatment of Insulin-induced
+    Hypoglycemia in Japanese Patients with Diabetes Mellitus</p>
+  <p><b>Rationale:</b></p>
+  <usdm:macro id=""element"" name=""study_rationale"" />
+  <p><b>Objectives Endpoints:</b></p>
+  <table class=""table"">
+    <tr>
+      <th>Objectives</th>
+      <th>Endpoints</th>
+    </tr>
+    <tr>
+      <td>
+        <p><b>Primary</b></p>
+        <p>
+          <usdm:macro id=""xref"" name=""OBJ1"" klass=""Objective"" attribute=""text""></usdm:macro>
+        </p>
+      </td>
+      <td>
+        <p>&nbsp;</p>
+        <p>
+          <usdm:macro id=""xref"" name=""END1"" klass=""Endpoint"" attribute=""text""></usdm:macro>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>Secondary</b></p>
+        <ul>
+          <li>
+            <p>
+              <usdm:macro id=""xref"" name=""OBJ2"" klass=""Objective"" attribute=""text""></usdm:macro>
+            </p>
+          </li>
+          <li>
+            <p>
+              <usdm:macro id=""xref"" name=""OBJ3"" klass=""Objective"" attribute=""text""></usdm:macro>
+            </p>
+          </li>
+          <li>
+            <p>
+              <usdm:macro id=""xref"" name=""OBJ4"" klass=""Objective"" attribute=""text""></usdm:macro>
+            </p>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <p>&nbsp;</p>
+        <ul>
+          <li>
+            <p>
+              <usdm:macro id=""xref"" name=""END2"" klass=""Endpoint"" attribute=""text""></usdm:macro>
+            </p>
+          </li>
+          <li>
+            <p>
+              <usdm:macro id=""xref"" name=""END3"" klass=""Endpoint"" attribute=""text""></usdm:macro>
+            </p>
+          </li>
+          <li>
+            <p>
+              <usdm:macro id=""xref"" name=""END4"" klass=""Endpoint"" attribute=""text""></usdm:macro>
+            </p>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <p><small>Abbreviations: AE = adverse event; AUC = area under the concentration versus time curve; BG max = maximal
+      plasma glucose concentration; C max = maximal concentration; IMG = intramuscular glucagon; PD = pharmacodynamics;
+      PG = plasma glucose; PK = pharmacokinetics; SAE = serious adverse event; TEAE = treatment-emergent adverse event;
+      T max = time to maximal concentration.</small></p>
+
+  <p><b>Summary of Study Design:</b></p>
+  <p>Study I8R-JE-IGBJ is a Phase 3, multicenter, randomized, open-label, active comparator, single-dose, 2-treatment,
+    2-period crossover study in Japanese patients with T1DM and patients with T2DM.</p>
+
+  <p><b>Treatment Arms and Planned Duration for an Individual Patient:</b></p>
+  <p>LY900018: Single 3-mg dose; nasal administration by study site personnel<br />
+    IMG (GlucaGen, Novo Nordisk A/S): Single 1-mg dose; IM injection by study site personnel</p>
+  <p>Patients will undergo a screening examination within 28 days prior to enrollment. Patients will be administered a
+    single dose in Periods 1 and 2, which will be separated by a washout period of 3 to 14 days. Patients will return
+    for a follow-up visit 26 to 30 days after the last study treatment.</p>
+
+  <p><b>Number of Patients:</b></p>
+  <p>Seventy five (<usdm:macro id=""xref"" klass=""StudyDesignPopulation"" name=""STUDY_POP""
+      attribute=""@plannedEnrollmentNumber/Range/maxValue""></usdm:macro>) patients may be enrolled in order to have at
+    least <usdm:macro id=""xref"" klass=""StudyDesignPopulation"" name=""STUDY_POP""
+      attribute=""@plannedCompletionNumber/Range/maxValue""></usdm:macro> patients (at least <usdm:macro id=""xref"" klass=""StudyCohort""
+      name=""T1DM"" attribute=""@plannedCompletionNumber/Range/maxValue""></usdm:macro> patients with T1DM and <usdm:macro
+      id=""xref"" klass=""StudyCohort"" name=""T2DM"" attribute=""@plannedCompletionNumber/Range/maxValue""></usdm:macro>
+    T2DM, respectively) complete both periods with evaluable primary outcome. If patients discontinue from the study
+    before completion of both periods with evaluable primary outcome for any reason, the patient may be replaced.
+    Replacement
+    should not occur beyond <usdm:macro id=""xref"" klass=""StudyDesignPopulation"" name=""STUDY_POP""
+      attribute=""@plannedEnrollmentNumber/Range/maxValue""></usdm:macro> patients enrolled, if it is expected to have at
+    least <usdm:macro id=""xref"" klass=""StudyDesignPopulation"" name=""STUDY_POP""
+      attribute=""@plannedCompletionNumber/Range/maxValue""></usdm:macro> patients complete the study.</p>
+
+  <p><b>Statistical Analysis:</b></p>
+  <p>A total of 66 completers are required in the study in order to achieve the primary objective with at least 90%
+    power using the following assumptions:</p>
+  <ul>
+    <li>
+      <p>A treatment success rate of 98% for both treatments</p>
+    </li>
+    <li>
+      <p>A non-inferiority margin (NIM) of 10%</p>
+    </li>
+    <li>
+      <p>One-sided alpha level of 0.025</p>
+    </li>
+    <li>
+      <p>A within-patient correlation of zero between 2 treatment visits</p>
+    </li>
+  </ul>
+  <p>The primary analysis will be a treatment comparison
+    of the percentage of patients, including both T1DM and T2DM, who achieve treatment success. The percentage of
+    patients who achieve treatment success within each treatment group and the difference in the percentages between the
+    2
+    treatment groups will be computed. A 2-sided 95% confidence interval (CI) will be obtained from the 1-sample mean of
+    the paired differences in primary outcome (1=outcome observed; 0=outcome not observed) across 2 treatment visits.
+    Non-inferiority of LY900018 will be declared if the upper limit of the 2-sided 95% CI constructed on the difference
+    in percentage (IMG - LY900018) is less than the NIM of 10%.</p>
+</div>""","1","114b321c-b224-43cb-acce-fbe02e4ed2c0","Protocol Synopsis","SECTION 1"
+"NarrativeContent","NarrativeContent_4","<div><usdm:macro id=""note"" text=""The following SoA timelines are auto generated using the detailed study design held within the USDM.""/> <usdm:macro id=""section"" name=""soa""/></div>","2","0347fb28-8bfe-4825-b453-2ee8c93bcfef","Schedule of Activities","SECTION 2"
+"NarrativeContent","NarrativeContent_5","<div></div>","3","df792b69-0bff-4cbb-827e-1d8d67632d04","Introduction","SECTION 3"
+"NarrativeContent","NarrativeContent_6","<div><usdm:macro id=""element"" name=""study_rationale""/></div>","3.1.","b2dcb189-2af0-4c2e-821f-09a66460992f","Study Rationale","SECTION 3.1."
