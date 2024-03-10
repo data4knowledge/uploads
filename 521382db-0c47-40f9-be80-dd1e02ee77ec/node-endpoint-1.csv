@@ -1,0 +1,8 @@
+"id","description","instanceType","label","name","text","purpose","uuid:ID"
+"Endpoint_1","","Endpoint","","END1","The proportion of patients achieving treatment success defined as either an increase in PG to >70 mg/dL or an increase of >20 mg/dL from nadir within 30 minutes after administration of glucagon. The nadir is defined as the minimum PG value at the time of or within 10 minutes following glucagon administration.","","9a78f8b8-ca62-4dcf-bce6-5b1e208e5b47"
+"Endpoint_2","","Endpoint","","END2","SAE, TEAEs (including gastrointestinal, nasal,
+and non-nasal AEs), vital signs","","15211bb9-9cc7-472d-98a5-06e61d3f9aa7"
+"Endpoint_3","","Endpoint","","END3","PK parameters include AUC, Cmax, Tmax","","27b474c6-e66b-4a97-b712-62bcf24e22ac"
+"Endpoint_4","","Endpoint","","END4","PD parameters include BGmax and Tmax","","11075028-ac24-47f8-a923-0589d83afd2b"
+"Endpoint_5","","Endpoint","","END5","Presence of anti-glucagon antibodies","","0fa56cc4-2393-41cd-800c-9eb7f49ef00b"
+"Endpoint_6","","Endpoint","","END6","Hypoglycemia symptoms questionnaire","","8bdca53e-0390-4ffa-993f-57284e5f0b7a"
