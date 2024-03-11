@@ -1,0 +1,3 @@
+"name","id","includesHealthySubjects","uuid:ID","instanceType","description","label"
+"T1DM","StudyCohort_1","False","f92f6b34-dc08-46b6-89e3-7e00dc0fe7e1","StudyCohort","Type-1 Diabetes Mellitus Cohort","Type-1 Diabetes Mellitus Cohort"
+"T2DM","StudyCohort_2","False","d6b9f2a2-d83e-4e02-ae87-66eff215f83d","StudyCohort","Type-2 Diabetes Mellitus Cohort","Type-2 Diabetes Mellitus Cohort"

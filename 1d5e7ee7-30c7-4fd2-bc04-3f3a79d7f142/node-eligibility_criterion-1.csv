@@ -1,0 +1,112 @@
+"name","id","uuid:ID","instanceType","description","label","text","identifier"
+"INC1","EligibilityCriterion_1","95cfafe4-56a5-4e4a-bda2-245003245061","EligibilityCriterion","","","<p>have had a diagnosis of either:</p>
+<ul>
+  <li>
+    <p>[1a] T1DM based on the World Health Organization (WHO) diagnostic criteria, and have been on the following daily insulin therapy for at least 1 year</p>
+    <ul>
+      <p>[A] multiple daily injection of long-acting insulin analog (either insulin glargine [U-100 or U-300] or insulin degludec [U-100]) and rapid-acting insulin analog (insulin lispro, insulin aspart, or insulin glulisine), or</p>
+      <p>[B] continuous subcutaneous insulin infusion (CSII)</p>    
+    </ul>
+  </li>
+  <p>Or</p>
+  <li>
+    <p>[1b] T2DM based on the WHO diagnostic criteria, and have received the</p>
+    <p>following daily insulin therapy with or without oral anti-hyperglycemic medications (OAMs) for at least 1 year</p>
+    <ul>
+      <p>[A] insulin: long-acting insulin analog (either insulin glargine [U-100 or U-300] or insulin degludec [U-100]) alone, or in combination with rapid-acting insulin analog (insulin lispro, insulin aspart, or insulin glulisine) or CSII</p>
+      <p>[B] OAM: up to 3 of the following OAMs in accordance with local regulations: metformin, dipeptidyl peptidase-4 inhibitor, sodium glucose cotransporter 2 inhibitor, sulfonylurea (should not be more than half of maximum approved doses), glinides, alpha-glucosidase inhibitor, or thiazolidine</p>
+    </ul>
+  </li>
+</ul>","1"
+"INC2","EligibilityCriterion_2","a21b3c91-6d3b-4984-9d98-f899ebb65f17","EligibilityCriterion","Male contraception critierion","","<p>male patients: agree to use an effective method of contraception for the duration of the study and for 28 days following the last study treatment</p>","2"
+"INC3","EligibilityCriterion_3","affdab4e-67dd-4d23-a778-3383f30aeb9d","EligibilityCriterion","Female contraception criterion","","<ul>
+  <li>
+    [3a] women of childbearing potential who are abstinent (if this is complete
+    abstinence, as their preferred and usual lifestyle) or in a same sex
+    relationship (as part of their preferred and usual lifestyle) must agree to
+    either remain abstinent or stay in a same sex relationship without sexual
+    relationships with males. Periodic abstinence (eg, calendar, ovulation,
+    symptothermal, post-ovulation methods), declaration of abstinence just for
+    the duration of a trial, and withdrawal are not acceptable methods of
+    contraception.
+  </li>
+  <li>
+    [3b] otherwise, women of childbearing potential participating must agree to use
+    one highly effective method (less than 1% failure rate) of contraception, or a
+    combination of 2 effective methods of contraception for the entirety of the
+    study.
+    <ul>
+      <li>[A] women of childbearing potential participating must test negative for
+        pregnancy prior to initiation of treatment as indicated by a negative serum
+        pregnancy test at the screening visit followed by a negative urine
+        pregnancy test within 24 hours prior to exposure.</li>
+      <li>[B] either one highly effective method of contraception or a combination
+        of 2 effective methods of contraception will be used. The patient may
+        choose to use a double barrier method of contraception. Barrier protection
+        methods without concomitant use of a spermicide are not a reliable or
+        acceptable method. Thus, each barrier method must include use of a
+        spermicide. It should be noted that the use of male and female condoms
+        as a double barrier method is not considered acceptable due to the high
+        failure rate when these methods are combined.</li>
+    </ul>
+  </li>
+  <li>
+    [3c] women not of childbearing potential may participate, and include those who are:
+    <ul>
+      <li>
+        [A] infertile due to surgical sterilization (hysterectomy, bilateral
+        oophorectomy, or tubal ligation), congenital anomaly such as mullerian
+        agenesis
+      </li>
+      <li>
+        Or
+        [B] postmenopausal, defined as either:
+        <ul>
+          <li>[i] a woman at least 50 years of age with an intact uterus, not on hormone therapy, who has had either:
+          </li>
+          <ul>
+            <li>[a] cessation of menses for at least 1 year, or</li>
+            <li>[b] at least 6 months of spontaneous amenorrhea with a follicle-stimulating hormone >40 mIU/mL; or</li>
+          </ul>
+          <li>[ii] a woman 55 or older not on hormone therapy, who has had at least 6 months of spontaneous amenorrhea,
+            or</li>
+          <li>[iii] a woman at least 55 years of age with a diagnosis of menopause prior to starting hormone replacement
+            therapy</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>","3"
+"INC4","EligibilityCriterion_4","1e7e86fa-a354-4e77-bb16-d29553205a88","EligibilityCriterion","Age critierion","","<p>are between 18 and 64 years old for T1DM, or between 20 and 70 years old for T2DM at the time of informed consent</p>","4"
+"INC5","EligibilityCriterion_5","f98b8963-a709-4876-9493-3f64e27e285c","EligibilityCriterion","Weight critierion","","<p>have a body mass index of 18.5 to 30.0 kg/m 2 for T1DM, or 18.5 to 35.0 kg/m 2 for T2DM at the time of screening</p>","5"
+"INC6","EligibilityCriterion_6","a62b77b0-0386-404f-8adb-ccc17a09a1db","EligibilityCriterion","A1c critierion","","<p>have a hemoglobin A1c value ≤10% at the time of screening</p>","6"
+"INC7","EligibilityCriterion_7","7c30a4ff-8282-4820-aad7-92df9349b7f9","EligibilityCriterion","Labs critierion","","<p>have clinical laboratory test results within normal reference range (except for glycemic parameters) for the population or investigative site, or results with acceptable deviations that are judged to be not clinically significant by the investigator</p>","7"
+"INC8","EligibilityCriterion_8","a9d904e1-b53d-4ca5-b8e6-2f3212efb3d3","EligibilityCriterion","Venous critierion","","<p>have venous access sufficient to allow for blood sampling and administration of insulin for IV administration as per the protocol</p>","8"
+"INC9","EligibilityCriterion_9","1595dd0d-de43-4f81-b0b8-3627935cb9c8","EligibilityCriterion","Availability critierion","","<p>are reliable and willing to make themselves available for the duration of the study and are willing to follow study procedures</p>","9"
+"INC10","EligibilityCriterion_10","526bce1f-60a5-4223-b08c-eb3b914bc525","EligibilityCriterion","IC critierion","","<p>are able and willing to give signed informed consent</p>","10"
+"EXC11","EligibilityCriterion_11","145565d5-6577-498e-b44a-9a634a44af54","EligibilityCriterion","Site personal criterion","","<p>are investigative site personnel directly affiliated with this study and their immediate families. Immediate family is defined as a spouse, biological or legal guardian, child, or sibling</p>","11"
+"EXC12","EligibilityCriterion_12","ad864f71-3609-43cf-aba7-dd2b5d0fd547","EligibilityCriterion","Lilly employee criterion","","<p>are Lilly employees</p>","12"
+"EXC13","EligibilityCriterion_13","cb48efe5-7d6e-441d-b344-7d6ba6b726cb","EligibilityCriterion","Other study critierion","","<p>are currently enrolled in a clinical trial involving an investigational product or any other type of medical research judged not to be scientifically or medically compatible with this study</p>","13"
+"EXC14","EligibilityCriterion_14","f70011e8-8e6c-4a81-a1bb-bc4d3da46dc7","EligibilityCriterion","Previous study criterion","","<p>have participated, within the last 4 months, in a clinical trial involving an investigational product. If the previous investigational product has a long half-life, 4 months or 5 half-lives (whichever is longer) should have passed from the last dose of investigational product</p>","14"
+"EXC15","EligibilityCriterion_15","6ef89383-2967-47dc-a3d2-f6047df0d0e2","EligibilityCriterion","Same product critierion","","<p>have previously completed or withdrawn from this study or any other study investigating LY900018, and have previously received LY900018</p>","15"
+"EXC16","EligibilityCriterion_16","b7c7ac43-4b34-487c-94f5-df4474bf7872","EligibilityCriterion","Sensititivity criterion","","<p>have known allergies or sensitivity to LY900018, glucagon, related compounds, or any components of the formulation, or history of significant atopy</p>","16"
+"EXC17","EligibilityCriterion_17","fe380217-9b7d-42a6-837a-8fb29189a022","EligibilityCriterion","ECG abnormaility criterion","","<p>have an abnormality in the 12-lead ECG that, in the opinion of the investigator, increases the risks associated with participating in the study</p>","17"
+"EXC18","EligibilityCriterion_18","f8bfb1dd-0c9d-4a74-bb3e-39a9b945d186","EligibilityCriterion","","","<p>any significant changes in insulin regimen and/or unstable blood glucose control within the past 3 months prior to screening as assessed by the investigator</p>","18"
+"EXC19","EligibilityCriterion_19","1d118e73-efa0-4257-a0a4-d63b355e6412","EligibilityCriterion","","","<p>have received a total daily dose of insulin &gt;1.2 U/kg at the time of screening</p>","19"
+"EXC20","EligibilityCriterion_20","bfebb246-7151-4c4d-a33c-5847c3813ff5","EligibilityCriterion","","","<p>have poorly controlled hypertension (ie, supine systolic BP &gt;165 mm Hg or supine diastolic BP &gt;95 mm Hg) at screening, or a change in antihypertensive medications within 30 days prior to screening</p>","20"
+"EXC21","EligibilityCriterion_21","a0655103-1929-4fac-b0d2-3be3d66d1a74","EligibilityCriterion","","","<p>have a history of pheochromocytoma (ie, adrenal gland tumor) or insulinoma</p>","21"
+"EXC22","EligibilityCriterion_22","8adbe0a7-32ee-4892-9e90-763df4621fa1","EligibilityCriterion","","","<p>have a history of an episode of severe hypoglycemia (as defined by an episode that required third party assistance for treatment) in the 1 month prior to screening or have a history of loss of consciousness within the last 2 years induced other than by hypoglycemia</p>","22"
+"EXC23","EligibilityCriterion_23","f6e4b975-cbd9-46a4-b71b-1b70ec4d3e9c","EligibilityCriterion","Epilepsy criterion","","<p>have a history of epilepsy or seizure disorder</p>","23"
+"EXC24","EligibilityCriterion_24","45c464b8-da87-492f-924d-adda79457742","EligibilityCriterion","Medical conditions criterion","","<p>have a history or presence of cardiovascular, respiratory, hepatic, renal, gastrointestinal, endocrine (apart from T1DM or T2DM), hematological, or neurological disorders capable of significantly altering the absorption, metabolism, or elimination of drugs; of constituting a risk when taking the investigational product; or of interfering with the interpretation of data</p>","24"
+"EXC25","EligibilityCriterion_25","15ce4e4c-f50e-490c-a514-2a213aff976b","EligibilityCriterion","Physciatric criterion","","<p>have known or ongoing psychiatric disorders that, in the opinion of the investigator, may preclude the patient from following and completing the protocol</p>","25"
+"EXC26","EligibilityCriterion_26","0570ed6e-c79a-4677-94c1-567ba9ee0ddd","EligibilityCriterion","Drug abuse criterion","","<p>regularly use known drugs of abuse and/or show positive findings on urinary drug screening</p>","26"
+"EXC27","EligibilityCriterion_27","aec30b25-e66d-4a9e-a909-987c166564f9","EligibilityCriterion","HIV criterion","","<p>show evidence of human immunodeficiency virus (HIV) infection and/or positive HIV antibodies and/or antigen</p>","27"
+"EXC28","EligibilityCriterion_28","480ff031-49e0-478d-a4d2-18a46ee1744e","EligibilityCriterion","Hep C criterion","","<p>show evidence of hepatitis C and/or positive hepatitis C antibody</p>","28"
+"EXC29","EligibilityCriterion_29","ac5ca73f-67df-42bb-9256-fe5adbf87c8b","EligibilityCriterion","Hep B criterion","","<p>show evidence of hepatitis B and/or positive hepatitis B surface antigen</p>","29"
+"EXC30","EligibilityCriterion_30","6980c7fd-1b53-47b8-a778-f14d063e1502","EligibilityCriterion","Syphillia criterion","","<p>show evidence of syphilis and/or are positive for syphilis test</p>","30"
+"EXC31","EligibilityCriterion_31","f71deb29-f061-4f19-a105-8563a3a2c64c","EligibilityCriterion","","","<p>are women who are lactating</p>","31"
+"EXC32","EligibilityCriterion_32","47cf6b1e-7b2f-446f-a87c-a3ef9f9e45cd","EligibilityCriterion","","","<p>use of daily systemic beta-blocker, indomethacin, warfarin, anticholinergic drugs</p>","32"
+"EXC33","EligibilityCriterion_33","ced96466-fd84-4986-b4e4-766132ff6204","EligibilityCriterion","Blood donation criterion","","<p>have donated 400 mL or more blood in the last 12 weeks (males) or in the last 16 weeks (females), or any blood donation (including apheresis) within the last 4 weeks, or total volume of blood donation within 12 months is 1200 mL (males)/800 mL (females) or more at screening</p>","33"
+"EXC34","EligibilityCriterion_34","42304b3c-737e-4168-91fb-09b26a8722de","EligibilityCriterion","Alcohol critierion","","<p>have an average weekly alcohol intake that exceeds 21 units per week (males up to age 65) and 14 units per week (males over 65 and females), or are unwilling to stop alcohol consumption from Day -2 to discharge from CRU in each period (1 unit = 12 oz or 360 mL of beer; 5 oz or 150 mL of wine; 1.5 oz or 45 mL of distilled spirits)</p>","34"
+"EXC35","EligibilityCriterion_35","88080ac4-bc83-45b5-bb7d-2469f04bb6ef","EligibilityCriterion","Unsuitable criterion","","<p>in the opinion of the investigator or sponsor, are unsuitable for inclusion in the study</p>","35"
+"EXC36","EligibilityCriterion_36","cecaa9a5-6afd-461c-893c-c9e887c8151d","EligibilityCriterion","","","<p>have pre-proliferative and proliferative retinopathy or maculopathy requiring treatment or not clinically stable in the last 6 months, or patients with active changes in subjective eye symptoms as determined by the investigator if an eye exam has not been performed in the last 6 months. Note: If an eye examination has been performed no more than 6 months before screening, it will not have to be repeated; however, the investigator will need to confirm via interview that there is no change in subjective symptoms.</p>","36"
