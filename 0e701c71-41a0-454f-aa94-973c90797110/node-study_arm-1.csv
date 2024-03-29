@@ -1,0 +1,4 @@
+"name","description","uuid:ID","label","id","instanceType","dataOriginDescription"
+"Placebo","Placebo","78ae25cc-2eaa-4b04-b856-1bdd4b32f888","Placebo","StudyArm_1","StudyArm","Data collected from subjects"
+"Xanomeline Low Dose","Active Substance","1dcb7ee0-0304-4221-8474-a4ff256dc2ab","Xanomeline Low Dose","StudyArm_2","StudyArm","Data collected from subjects"
+"Xanomeline High Dose","Active Substance","998aa65a-fa9b-4cf4-a2f7-e6fc42745f28","Xanomeline High Dose","StudyArm_3","StudyArm","Data collected from subjects"
