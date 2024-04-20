@@ -1,0 +1,3 @@
+"isRareDisease","description","id","label","name","instanceType","uuid:ID"
+"False","Diabetes mellitus type 1","Indication_1","T1DM","IND_T1","Indication","bc4fe307-ed7f-450c-9df4-8ffd123bb7ed"
+"False","Diabetes mellitus type 2","Indication_2","T2DM","IND_T2","Indication","a69b1d14-59ee-4606-8805-e2137a297206"
