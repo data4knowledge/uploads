@@ -1,0 +1,3 @@
+"description","includesHealthySubjects","id","label","name","instanceType","uuid:ID"
+"Treatment experienced","False","StudyCohort_1","Cohort 1 (treatment experienced)","COHORT1","StudyCohort","32fb0711-881d-4faf-9a3b-ac53e7ac6167"
+"Treatment naïve","False","StudyCohort_2","Cohort 2 (treatment naïve)","COHORT2","StudyCohort","fc438e0c-6985-41dc-90f1-2f738abfee78"

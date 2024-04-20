@@ -1,0 +1,6 @@
+"description","id","label","mainTimeline","name","instanceType","uuid:ID","entryCondition"
+"This is the main timeline for the study design.","ScheduleTimeline_5","Main Timeline","True","Main Timeline","ScheduleTimeline","94dd8c59-c900-4753-b9b5-a32d1a437882","Potential subject identified"
+"This is the adverse event timeline","ScheduleTimeline_1","Adverse Event Timeline","False","Adverse Event Timeline","ScheduleTimeline","6e686622-e317-48ef-888d-bfdbb9c5bd67","Subject suffers an adverse event"
+"This is the early termination processing","ScheduleTimeline_2","Early Termination Timeline","False","Early Termination Timeline","ScheduleTimeline","cdfe813f-a0b4-4a08-aa99-7ba8bdd37e16","Subject terminates the study early"
+"Schedule of Pharmacokinetic and Pharmacodynamic Assessments on Days 1, 25, 29, and 39","ScheduleTimeline_3","PKPD Timeline","False","PKPD Timeline","ScheduleTimeline","1b9af968-a655-4d74-abe8-5b336ce5820f","Time points are relative to dosing (0 hours)."
+"Processing for an subject unscheduled visit","ScheduleTimeline_4","Unscheduled Timeline","False","Unscheduled Timeline","ScheduleTimeline","fd7f55ad-8e37-41c9-8f40-ed8a932270e1","Unscheduled study visits may occur at any time during the study and may include any study procedure as deemed necessary by the Investigator."

@@ -1,0 +1,3 @@
+"text","description","id","label","name","instanceType","uuid:ID"
+"Patients who have received WD therapy for > 28 days","treatment experienced","Characteristic_1","treatment experienced","CHAR1","Characteristic","10dc2e24-46ca-46a0-a333-dba1c8a67d02"
+"Patients who have received WD therapy for ≤ 28 days","treatment naïve","Characteristic_2","treatment naïve","CHAR2","Characteristic","49c25e94-7f27-45a4-a452-9417c8acef27"

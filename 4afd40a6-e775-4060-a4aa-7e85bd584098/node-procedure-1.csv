@@ -1,0 +1,2 @@
+"description","id","procedureType","label","name","instanceType","uuid:ID"
+"Blood pressure and heart rate measurements should be preceded by at least 5 minutes of rest for the participant in a quiet setting without distractions (eg, television, cell phones). Ideally, the same arm for each participant should be used for measurements","Procedure_1","","Vitals procedure","VITALS_REST","Procedure","f452aae1-b7e5-4821-b9de-3bd16a530e20"
