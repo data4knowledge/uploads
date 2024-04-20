@@ -1,0 +1,8 @@
+"text","description","id","label","name","instanceType","uuid:ID"
+"To determine if there is a statistically significant relationship (overall Type 1 erroralpha=0.05) between the change in both the ADAS-Cog (11) and CIBIC+ scores, and drug dose (0, 50 cm2 [54 mg], and 75 cm2 [81 mg]).","Main objective","Objective_1","","OBJ1","Objective","559145fe-64c8-4d89-b4f3-ad37c11dd945"
+"To document the safety profile of the xanomeline TTS.","Safety","Objective_2","","OBJ2","Objective","cb7bb6ec-daa7-4e13-813c-1d522d9de13b"
+"To assess the dose-dependent improvement in behavior. Improved scores on the Revised Neuropsychiatric Inventory (NPI-X) will indicate improvement in these
+areas.","Behaviour","Objective_3","","OBJ3","Objective","accb7a0c-22fe-4980-89ed-81ab6295a18c"
+"To assess the dose-dependent improvements in activities of daily living. Improved scores on the Disability Assessment for Dementia (DAD) will indicate improvement in these areas (see Attachment LZZT.5).","","Objective_4","","OBJ4","Objective","10ddf522-0b32-4329-8899-1dbf079fc3f5"
+"To assess the dose-dependent improvements in an extended assessment of cognition that integrates attention/concentration tasks. The Alzheimer's Disease Assessment Scale-14 item Cognitive Subscale, hereafter referred to as ADAS-Cog (14), will be used for this assessment (see Attachment LZZT.2).","","Objective_5","","OBJ5","Objective","ef2cee4f-7eee-495d-8b35-4114f4789748"
+"To assess the treatment response as a function of Apo E genotype.","","Objective_6","","OBJ6","Objective","a31f135e-061d-45f7-a39e-a876418a0707"
