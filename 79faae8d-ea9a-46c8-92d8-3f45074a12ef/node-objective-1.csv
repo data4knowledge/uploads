@@ -1,9 +1,0 @@
-"id","description","text","label","name","instanceType","uuid:ID"
-"Objective_1","","To demonstrate that 3 mg LY900018 is non-inferior to 1 mg IMG for the proportion of patients achieving treatment success from insulin-induced hypoglycemia using a non-inferiority margin of 10%","","OBJ1","Objective","fcc29440-346a-40d2-a1d7-cf03334ca3d3"
-"Objective_2","","To compare the safety and tolerability of 3 mg LY900018 with 1 mg IMG","","OBJ2","Objective","56414464-e8a4-4d1c-b969-c10537d8ab63"
-"Objective_3","","To characterize the PK profile of 3 mg LY900018
-compared to 1 mg IMG","","OBJ3","Objective","2d73394d-385c-4ffb-9c1c-5775a68c0bf9"
-"Objective_4","","To characterize the PD profile of 3 mg LY900018
-compared to 1 mg IMG","","OBJ4","Objective","7c53be36-fbaa-4a87-bdb0-149378bf5f46"
-"Objective_5","","Explore the formation of anti-glucagon antibodies to glucagon","","OBJ5","Objective","cfdc8b5a-63d9-4224-a027-51253a6215ca"
-"Objective_6","","To evaluate the recovery from clinical symptoms of hypoglycemia","","OBJ6","Objective","6a29e801-8340-4dfa-80ca-36dcbd23330b"

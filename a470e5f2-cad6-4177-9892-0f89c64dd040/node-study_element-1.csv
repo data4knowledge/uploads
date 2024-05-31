@@ -1,6 +1,0 @@
-"description","id","label","name","instanceType","uuid:ID"
-"Screening Element","StudyElement_1","","Screening","StudyElement","34f0d7fa-eb42-47d4-94d8-fe1a7ae25fc2"
-"IM Glucagon + LY900018","StudyElement_2","","GLUC_LY900018","StudyElement","1083a93b-3b1f-4ea6-8c1d-221d82cba46d"
-"Wash Out Element","StudyElement_4","","Wash Out","StudyElement","975c17b8-b676-48ff-bcf1-5faafa879c40"
-"IM Glucagon","StudyElement_3","","GLUC","StudyElement","38fb6404-e3a7-41cc-a179-0e67e14f7cea"
-"Follow Up Element","StudyElement_5","","Follow Up","StudyElement","97bebecc-4d0d-41e0-a298-678120c0b208"

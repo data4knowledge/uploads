@@ -1,3 +1,0 @@
-"uuid:ID","name","instanceType","id","description","text","label"
-"c73d5b19-0b2b-428c-942d-1e97cf5199cf","COND1","Condition","Condition_1","Hemoglobin A<sup>1C</sup> and insulin-dependent subjects","Performed if patient is an insulin-dependent diabetic","HA1C"
-"6db99275-7550-4226-aeab-82bbc651b2e4","COND2","Condition","Condition_2","Questionnaire practice condition","Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD, and NPI-X be administered at Visit 1. Data from this sampling would not be considered as study data and would not be collected.","Practice"

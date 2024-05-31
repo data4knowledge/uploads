@@ -1,8 +1,0 @@
-"name","id","uuid:ID","instanceType","description","label"
-"SCREENING","Encounter_1","6bdec718-0540-4344-87f9-1769ad6f054f","Encounter","Screening","Screening"
-"P1 DAY -1","Encounter_2","b5f26c3e-2f8a-4fc3-b66b-c5db94c2d156","Encounter","Period 1, Day -1","Period 1, Day -1"
-"P1 DAY 1","Encounter_3","3fa2bc4f-0070-4d7f-89f1-052aa6a90222","Encounter","Period 1, Day 1","Period 1, Day 1"
-"WASHOUT","Encounter_4","6c383a3b-0749-4887-a630-569226dabf8c","Encounter","Wash Out","Wash Out"
-"P2 DAY -1","Encounter_5","23d5ea16-f854-4928-96db-230c3030fc90","Encounter","Period 2, Day -1","Period 2, Day -1"
-"P2 DAY 1","Encounter_6","38d45976-13fb-48f0-9fcf-9d15f0f07e20","Encounter","Period 2, Day 1","Period 2, Day 1"
-"FOLLOW-UP","Encounter_7","f928d173-071c-4b8a-8427-9c2f7e124008","Encounter","Follow-up","Follow-up"

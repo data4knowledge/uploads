@@ -1,4 +1,0 @@
-"label","instanceType","description","entryCondition","mainTimeline","id","uuid:ID","name"
-"Main Timeline","ScheduleTimeline","This is the main timeline for the study design.","Potential subject identified","True","ScheduleTimeline_3","9984332d-c5bd-4e19-b7c4-00213f1a670a","Main Timeline"
-"Hypoinduction","ScheduleTimeline","Hypoinduction profile","Insulin Infusion","False","ScheduleTimeline_1","652fa30a-a098-459b-845f-f784e0d1105e","Hypoinduction"
-"Treatment Phase","ScheduleTimeline","Timeline for the treatment phase","Study Treatment Administration","False","ScheduleTimeline_2","e2f392d9-9a4d-43fa-88e2-16a23610c9e0","Treatment Phase"

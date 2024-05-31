@@ -1,5 +1,0 @@
-"id","instanceType","label","synonyms","reference","name","uuid:ID"
-"BiomedicalConcept_1","BiomedicalConcept","Pulse Rate","['Pulse']","/mdr/bc/packages/2023-12-12/biomedicalconcepts/C49676","Pulse Rate","0a19d84f-6670-423b-9a8b-02a3fd5326f3"
-"BiomedicalConcept_2","BiomedicalConcept","Body Temperature","['Temperature']","/mdr/bc/packages/2023-12-12/biomedicalconcepts/C174446","Body Temperature","ee9cc622-9812-4ddc-9d7e-08df0423f020"
-"BiomedicalConcept_3","BiomedicalConcept","Specific Gravity","['SPGRAV']","/mdr/bc/packages/2023-12-12/biomedicalconcepts/C64832","Specific Gravity","74be430c-3ea1-45cf-89e8-f91a68dc1a85"
-"BiomedicalConcept_4","BiomedicalConcept","pH","['PH', 'potential of Hydrogen']","/mdr/bc/packages/2023-12-12/biomedicalconcepts/C45997","pH","da4b71f2-5fc7-481d-8610-8a629e4a5be2"

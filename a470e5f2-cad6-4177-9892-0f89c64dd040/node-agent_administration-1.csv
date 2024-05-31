@@ -1,3 +1,0 @@
-"description","id","label","name","instanceType","uuid:ID"
-"Administer a single nasal dose upon hypoglycemia onset","AgentAdministration_1","","LY_ADMIN","AgentAdministration","6334e4cb-4694-4bef-bea3-0532fe11ab12"
-"Administer a single intramuscular injection upon hypoglycemia onset","AgentAdministration_2","","IMG_ADMIN","AgentAdministration","6cd41775-0a21-4168-977d-dfb1e8b84a16"

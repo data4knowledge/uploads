@@ -1,3 +1,0 @@
-"instanceType","id","reference","label","uuid:ID","synonyms","name"
-"BiomedicalConcept","BiomedicalConcept_1","/mdr/bc/packages/2022-10-26/biomedicalconcepts/C49676","Pulse Rate","3e5ce3f3-af63-4b72-b9fc-77ae3070a3a2","['Pulse']","Pulse Rate"
-"BiomedicalConcept","BiomedicalConcept_2","/mdr/bc/packages/2022-10-26/biomedicalconcepts/C174446","Body Temperature","eba023fa-df7d-4dd9-b940-a29b1d3105a1","['Temperature']","Body Temperature"
