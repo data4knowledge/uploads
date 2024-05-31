@@ -1,0 +1,4 @@
+"id","name","uuid:ID","label","instanceType","description","procedureType"
+"Procedure_1","PR1","a0059cfd-1694-4384-9f4a-127a72a57e3e","CT Scan","Procedure","CT Scan","CT Scan"
+"Procedure_2","PR_SUPINE","0a3e0ee7-34c7-4319-9b82-8a997854a885","","Procedure","Subject Supine",""
+"Procedure_3","PR_STAND","336b5e48-c40d-4bc7-b1b3-945f1af4b34a","","Procedure","Subject Standing",""
