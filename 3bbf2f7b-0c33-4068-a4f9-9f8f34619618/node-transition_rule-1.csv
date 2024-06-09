@@ -1,0 +1,5 @@
+"uuid:ID","name","text","instanceType","id"
+"35fb52a9-1caf-4d9b-8e4f-b544de85bccf","ELEMENT_START_RULE_1","Informed consent","TransitionRule","TransitionRule_1"
+"5cd0e207-2067-4c02-8f15-c8d8113681bf","ELEMENT_START_RULE_2","Admission to CRU","TransitionRule","TransitionRule_2"
+"bc1bdcaa-bc71-49b6-9972-9c449d6cda2e","ELEMENT_START_RULE_3","Administration of first dose","TransitionRule","TransitionRule_3"
+"bb1735a1-9ad1-4cb6-a67a-395a267c1580","ELEMENT_START_RULE_4","Treatment termination","TransitionRule","TransitionRule_4"

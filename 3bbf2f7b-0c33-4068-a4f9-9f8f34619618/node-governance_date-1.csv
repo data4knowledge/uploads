@@ -1,0 +1,6 @@
+"uuid:ID","description","label","name","instanceType","id","dateValue"
+"0dd5fdf3-f542-4a79-a20d-70e061e3e592","Original protocol approval date","Original Protocol","P_APPROVE_ORG","GovernanceDate","GovernanceDate_1","2020-05-12"
+"35b0dfb4-5e06-4b8b-996d-c2caf942ac91","Amendment 1 approval date","Amendment 1","P_APPROVE_A1","GovernanceDate","GovernanceDate_2","2020-08-18"
+"a63e10a7-d623-4a1f-b151-abc85f523edc","Amendment 2 approval date","Amendment 2","P_APPROVE_A2","GovernanceDate","GovernanceDate_3","2021-03-19"
+"aaf64473-6196-47bd-a713-d3e82e5f0523","Amendment 3 approval date","Amendment 3","P_APPROVE_A3","GovernanceDate","GovernanceDate_4","2021-08-31"
+"157366e1-bd67-42db-b5fe-156034a4cdf6","Amendment 3.1 approval date","Amendment 3.1","P_APPROVE_A3-1","GovernanceDate","GovernanceDate_5","2022-03-18"

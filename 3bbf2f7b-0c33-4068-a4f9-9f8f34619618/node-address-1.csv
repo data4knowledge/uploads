@@ -1,0 +1,6 @@
+"uuid:ID","postalCode","city","district","text","instanceType","state","id","line"
+"575aa90e-cca6-4bd4-89f0-bc890b67049f","02210","Boston","","121 Seaport Boulevard, Boston, MA, 02210, United States of America","Address","MA","Address_1","121 Seaport Boulevard"
+"4d5306bf-9684-42c8-b2a9-f026140e5d9f","20894","Bethesda","","8600 Rockville Pike, Bethesda, MD, 20894, United States of America","Address","MD","Address_2","8600 Rockville Pike"
+"4e10c36d-4879-4d23-ae1a-c270ca7c1b6f","1083 HS","Amsterdam","","Domenico Scarlattilaan 6, Amsterdam, 1083 HS, Netherlands","Address","","Address_3","Domenico Scarlattilaan 6"
+"a7e9c8fa-7c45-4e10-91d1-a70077ba932c","20903","Silver Spring","","10903 New Hampshire Ave, Silver Spring, MD, 20903, United States of America","Address","MD","Address_4","10903 New Hampshire Ave"
+"f7a550ec-2d1f-43ea-8353-edded7a26a06","postal_code","city","district","line, city, district, state, postal_code, United Kingdom of Great Britain and Northern Ireland","Address","state","Address_5","line"

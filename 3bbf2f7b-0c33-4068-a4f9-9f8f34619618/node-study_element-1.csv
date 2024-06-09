@@ -1,0 +1,5 @@
+"uuid:ID","label","name","instanceType","id","description"
+"34785c3f-82da-4308-bf77-6c3f40a876c9","Screening","EL1","StudyElement","StudyElement_1","Screening Element"
+"502ac3d4-9c3b-4713-8836-1471e9a5b7de","Check In","EL2","StudyElement","StudyElement_2","Check In Element"
+"9a87c492-9585-4cb6-9445-ccd507ccbf56","Treatment","EL3","StudyElement","StudyElement_3","Treatment Element"
+"8b9ca7cf-5b30-4ce1-879d-120bbd573b81","Follow-up","EL4","StudyElement","StudyElement_4","Follow-up Element"

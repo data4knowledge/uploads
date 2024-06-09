@@ -1,0 +1,5 @@
+"uuid:ID","identifierScheme","label","name","instanceType","identifier","id"
+"bae4c559-0604-44a0-b0d6-43ce140c7297","DUNS","Alexion","Alexion","Organization","794325824","Organization_1"
+"e9f69bc3-c444-4896-bcde-97df1dfe79c2","USGOV","ClinicalTrials.gov","CT.gov","Organization","CT-GOV","Organization_2"
+"73c1d5a9-7b54-44bc-8190-f6ea3211c4f5","EU","European Medicines Agency","EMA","Organization","EUDRACT","Organization_3"
+"bd25281f-f90d-4549-98bd-a571a9ddd490","USGOV","Food & Drug Administration","FDA","Organization","IND","Organization_4"

@@ -1,0 +1,91 @@
+"uuid:ID","label","name","text","instanceType","identifier","id","description"
+"84d5368b-410c-4b60-a21f-414a3c9f8a7e","Age criterion","IN01","<p>Participants aged ≥ <usdm:tag name=""min_age""/> at the time of signing the ICF.</p>","EligibilityCriterion","1","EligibilityCriterion_1",""
+"179beb09-b632-4e68-89bc-ef98f11426a8","Leipzig Criterion","IN02","<p>Diagnosis of WD by Leipzig Criteria ≥ 4 documented by testing as outlined in the 2012 European Association for the Study of Liver WD Clinical Practice Guidelines (Ferenci, 2003; EASL, 2012) or by historical test results for WD including some or all of the following:</p>
+<ul>
+<li><p>Presence of Kayser Fleischer rings,</p></li>
+<li><p>Neurological symptoms,</p></li>
+<li><p>Serum ceruloplasmin below reference range,</p></li>
+<li><p>Coombs-negative hemolytic anemia,</p></li>
+<li><p>Elevated liver or urinary copper,</p></li>
+<li><p>Presence of mutations in the ATP7B gene, or</p></li>
+<li><p>Other, as considered appropriate, may be used instead to confirm the diagnosis of WD.</p></li>
+</ul>","EligibilityCriterion","2","EligibilityCriterion_2",""
+"9bc31f82-b498-458e-aabd-96e14aad4201","","IN03","<p>Participants who in the opinion of the referring Investigator may benefit from decoppering therapy.</p>","EligibilityCriterion","3","EligibilityCriterion_3",""
+"a51a9d82-1549-42a5-abb3-9b32dd8dbbc1","","IN04","<p>Participants must be able to comply with all study-related procedures.</p>","EligibilityCriterion","4","EligibilityCriterion_4",""
+"33378bc0-da70-4bc6-87d5-dbd4953032a6","","IN05","<p>Participants must be able to reside in the CRU for intensive metabolic monitoring of copper and molybdenum.</p>","EligibilityCriterion","5","EligibilityCriterion_5",""
+"8c888c3c-5063-4be5-bad9-9917472b5894","","IN06","<p>Participants willing to discontinue chelator therapy for approximately 4 days prior to initiation of ALXN1840 to allow a baseline assessment of copper balance.</p>","EligibilityCriterion","6","EligibilityCriterion_6",""
+"7bbb113e-6ae8-4ada-861d-dc0d2ddcc6d6","","IN07","<p>Participants with adequate venous access to allow collection of required blood samples.</p>","EligibilityCriterion","7","EligibilityCriterion_7",""
+"9b19b637-9458-48c0-a7e7-e6841fe5d0b8","","IN08","<p>Participants must be able to swallow intact ALXN1840 tablets.</p>","EligibilityCriterion","8","EligibilityCriterion_8",""
+"3724f779-67d6-439a-9e84-2bfbc48eef91","","IN09","<p>Participants willing to avoid use of minerals containing copper, zinc, or molybdenum throughout the study duration.</p>","EligibilityCriterion","9","EligibilityCriterion_9",""
+"1d49ee7b-cb46-42b1-8ad9-67c520f7577d","","IN10","<p>Participants willing to adhere to copper/molybdenum-controlled diet during inpatient periods and willing to comply with a low copper dietary requirement during the Outpatient Period.</p>","EligibilityCriterion","10","EligibilityCriterion_10",""
+"84b90768-928f-4d8b-b477-a6a04722f0a5","","IN11","<p>Contraceptive use by men or women should be consistent with local regulations regarding the methods of contraception
+  for those participating in clinical studies.</p>
+<ol type=""a"">
+  <li>
+    <p>Male participants:</p>
+    <ul>
+      <li>
+        <p>Male participants, if heterosexually active and with a female spouse or partner of childbearing potential or
+          a pregnant or breastfeeding spouse or partner, must agree to use barrier contraception (male condom) for the
+          duration of the study and for at least 3 months after the end of systemic exposure of the study intervention.
+        </p>
+      </li>
+      <li>
+        <p>Male participants must not donate sperm for at least 3 months after the end of systemic exposure of the study
+          intervention.</p>
+      </li>
+      <li>
+        <p>Female spouses or partners of male participants who are of childbearing potential must use highly effective
+          contraception as defined below and in Section 10.4, starting at least 1 menstrual cycle before (the male
+          participant's) first study intervention
+          administration and continuing until at least 3 months after the end of their male partner's systemic exposure
+          to the study intervention.</p>
+      </li>
+      <li>
+        <p>Barrier contraception (male condom) is required even with documented medical assessment of surgical success
+          of a vasectomy. For male participants who have had a vasectomy (with documented evidence of azoospermia if
+          possible) and agree to use a male condom for the stated time period, no additional contraceptive method is
+          required by their female partner. </p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Female participants:</p>
+    <ul>
+      <li>
+        <p>Female participants or female partners of male participants of childbearing potential (including
+          breastfeeding females), if heterosexually active, must be willing to follow protocol-specified contraception
+          guidance starting at least 1 menstrual cycle before first study intervention administration and continuing for
+          at least 3 months after the end of systemic exposure of the study intervention. Female participants must not
+          donate ova for at least 3 months after the end of systemic exposure of the study intervention.</p>
+      </li>
+      <li>
+        <p>Female participants who are documented as being of non-childbearing potential as defined in Section 10.4 are
+          exempt from contraception requirements.</p>
+      </li>
+      <li>
+        <p>Highly effective contraceptive methods for female participants and female partners of male participants are
+          described in Section 10.4.
+      </li>
+    </ul>
+</ol>","EligibilityCriterion","11","EligibilityCriterion_11",""
+"e7d6e8b2-0453-4fa1-b5e9-e93df5db5500","","IN12","<p>Participants capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the ICF and in this protocol. </p>","EligibilityCriterion","12","EligibilityCriterion_12",""
+"915343c2-7bbd-4573-98e7-2043faf27306","","EX01","<p>Decompensated cirrhosis or model for end-stage liver disease (MELD) score &gt; 13.</p>","EligibilityCriterion","1","EligibilityCriterion_13",""
+"94f27119-00ee-407c-9298-b43a07c40fb1","","EX02","<p>Modified Nazer score &gt; 7 (Dhawan, 2005).</p>","EligibilityCriterion","2","EligibilityCriterion_14",""
+"fec42c62-e6cd-42b2-834e-2ab71a5b36ac","","EX03","<p>Clinically significant gastrointestinal bleed within past 3 months.</p>","EligibilityCriterion","3","EligibilityCriterion_15",""
+"2373e023-96a8-4e6a-99fd-c4e3b78736e9","","EX04","<p>Alanine aminotransferase (ALT) &gt; 2 × upper limit of normal (ULN).</p>","EligibilityCriterion","4","EligibilityCriterion_16",""
+"63ad32ee-5e77-462c-99f8-d3fbb98abc3f","","EX05","<p>Marked neurological disease requiring assistance with self-care or activities of daily life.</p>","EligibilityCriterion","5","EligibilityCriterion_17",""
+"87a94874-ef41-4e32-95ae-953230a19fb2","","EX06","<p>Hemoglobin less than lower limit of the reference range for age and sex.</p>","EligibilityCriterion","6","EligibilityCriterion_18",""
+"3d1cb9cf-09e7-4b04-b359-3ea99b3f35c2","","EX07","<p>Active infection with hepatitis B virus (positive hepatitis B surface antigen) or C virus (participants with positive hepatitis C antibody result would require confirmation of active disease with a positive hepatitis C polymerase chain reaction test), or seropositivity for human immunodeficiency virus (HIV).</p>","EligibilityCriterion","7","EligibilityCriterion_19",""
+"394c62a5-5c75-4985-970d-fbddb2a4e3bf","","EX08","<p>History or presence of/significant history of or current cardiovascular, respiratory, hepatic, renal, gastrointestinal, endocrinological, hematological, or neurological disorders, or psychiatric disorder that in the opinion of the Investigator may constitute a risk when taking the study intervention; or may interfere with the interpretation of data.</p>","EligibilityCriterion","8","EligibilityCriterion_20",""
+"59f15ecc-0066-46ce-9c5b-22e76cb7c273","","EX09","<p>Previous treatment with ALXN1840 or other form of tetrathiomolybdate within 1 year prior to dosing.</p>","EligibilityCriterion","9","EligibilityCriterion_21",""
+"8d05129f-e743-4812-8448-40beec984deb","","EX10","<p>Previous treatment with zinc within 21 days prior to Day 1.</p>","EligibilityCriterion","10","EligibilityCriterion_22",""
+"80393230-6b35-4cc1-982e-d01200a5b110","","EX11","<p>The use of an experimental or unapproved/unlicensed therapy at the same time or within 90 days or 5 half-lives, whichever is longer, prior to the Screening Visit.</p>","EligibilityCriterion","11","EligibilityCriterion_23",""
+"576adbe9-df15-42ae-ab41-5e1ae438816c","","EX12","<p>Participants in renal failure, defined as in end-stage renal disease on dialysis (chronic kidney disease [CKD] stage 5) or creatinine clearance &lt; 30 mL/min (Levey, 2006).</p>","EligibilityCriterion","12","EligibilityCriterion_24",""
+"9ec8af88-5db6-44ea-b78e-c124beb8969e","","EX13","<p>Pregnant (or females who are planning to become pregnant) or breastfeeding females (women of childbearing potential must have a negative serum pregnancy test result at screening).</p>","EligibilityCriterion","13","EligibilityCriterion_25",""
+"dcf0bba5-2a24-4a5b-acef-f593fabee8de","","EX14","<p>Known sensitivity to ALXN1840, ALXN1840 excipients (anhydrous dicalcium phosphate, anhydrous sodium carbonate), or any of the ingredients contained in ALXN1840 or related compounds.</p>","EligibilityCriterion","14","EligibilityCriterion_26",""
+"58e7f4dd-3a03-4582-a794-159d6960245a","","EX15","<p>In the opinion of the Investigator, the participant and/or their legal guardian is likely to be non-compliant or uncooperative during the study.</p>","EligibilityCriterion","15","EligibilityCriterion_27",""
+"fc1a6e07-d333-4740-be5c-cb0b21186dbd","","EX16","<p>History of illicit drug abuse, history of significant alcohol abuse within 1 year prior to the Screening Visit, or clinical evidence of substance and/or alcohol abuse within the 2 years before screening. Alcohol abuse is defined as regular weekly intake of more than 14 units (for both males and females), using the following National Health Service (NHS) alcohol tracker http://www.nhs.uk/Tools/Pages/drinks-tracker.aspx.</p>","EligibilityCriterion","16","EligibilityCriterion_28",""
+"59b29432-d15e-4ff7-8fc4-166d7ae41e94","","EX17","<p>Positive urine drug toxicology screen at Screening or on Day -8 (cannabinoids will not be tested).</p>","EligibilityCriterion","17","EligibilityCriterion_29",""
+"f9b05236-8332-45e5-85f0-1b56bb0b384f","","EX18","<p>Alcohol consumption within 48 hours prior to study intervention administration or positive alcohol breath test at screening or on Day -8.</p>","EligibilityCriterion","18","EligibilityCriterion_30",""
+"e41b4ed6-3ffd-4973-9255-033eda5233ad","","EX19","<p>Participants unwilling to consistently complete every meal and tolerate a controlled, limited menu for the duration of the study.</p>","EligibilityCriterion","19","EligibilityCriterion_31",""
